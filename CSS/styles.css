@@ -1,0 +1,57 @@
+body{
+  background-color: #AAAAAA;
+}
+
+h1 {
+  color: #001f3f;
+  font-weight: bold;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 40px;
+}
+h2 {
+  color: #0074D9;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 25px;
+}
+h3 {
+  color:#0074D9;
+  font-weight: bold;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+h4 {
+  color:#0074D9;
+  font-weight: bold;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+p{
+  font-family:sans-serif;
+}
+
+ul{
+  font-size: 20px;
+  line-height: 30px;
+}
+li{
+  font-family: serif;
+  font-size: 20px;
+}
+
+img{
+  display: block;
+  margin:0 auto;
+}
+
+p {
+  font-size: 23px;
+  text-align: center;
+}
